@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  color: blue; 
+}
+.left {
+  flex: 1;
+}
+.right
+{
+  text-align: right;
+}
+```
+```
